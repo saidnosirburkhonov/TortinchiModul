@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClassLibrary1/ClassLibrary1.csproj" />
+    <Project Path="src/ClassLibrary2/ClassLibrary2.csproj" />
+    <Project Path="src/WebApplication1/WebApplication1.csproj" />
+  </Folder>
+</Solution>
